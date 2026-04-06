@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Le Nhat Truong 👋
 
-<!--
-**nhattruowng/nhattruowng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Backend Developer focused on building scalable, high-performance backend systems.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Java, Spring Boot, Spring WebFlux, Project Reactor
+- PostgreSQL, MySQL, Redis, Caffeine
+- Docker, Liquibase, Swagger, Postman
+- OpenTelemetry, K6, Playwright
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Highlights
+- Improved API latency from ~700ms to ~150ms
+- Reduced database load by ~60% with Redis + Caffeine
+- Built reactive backend systems for high-concurrency workloads
+
+## Featured Projects
+- BizFlowAgentHub – AI workflow orchestration platform
+- AmazingGym Management System – gym management backend with OpenCV integration
+
+## Contact
+- Email: nhattruong.zenit@gmail.com
